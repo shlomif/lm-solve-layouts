@@ -1,0 +1,18 @@
+Dims = (5,5)
+Blue_Start = (4,1)
+Blue_Goal = (4,0)
+Red_Start = (4,2)
+Red_Goal = (4,3)
+layout = <<EOF
+-----
+| |  |
+  -  
+|    |
+    -
+|    |
+-    
+|    |
+  -  
+|  | |
+-----
+EOF

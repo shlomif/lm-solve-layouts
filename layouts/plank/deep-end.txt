@@ -1,0 +1,11 @@
+Dims = (7,5)
+layout = <<EOF
+ XX  X 
+X X XX 
+  XX X 
+ X X  G
+ XX XX 
+EOF
+Planks = [ ((0,1) -> (2,1)) , ((1,4) -> (2,4)) , ((4,1) -> (4,4)) ]
+
+

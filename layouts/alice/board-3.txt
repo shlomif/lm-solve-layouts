@@ -1,0 +1,17 @@
+Dims = (7,7)
+layout = <<EOF
+# Row 1
+[SE] [SE] [E] [SE] [SE,SW] [W,SUB] [W]
+# Row 2
+[S,E] [N,NE] [S,W,SUB] [NE] [W] [E,W] [W,SW]
+# Row 3
+[S] [N] [W] [W,S,START] [SE,NW] [E,S] [W,ADD]
+# Row 4 - All blanks
+[BLANK] [BLANK] [BLANK] [BLANK] [BLANK] [BLANK] [BLANK] 
+# Row 5
+[E,S] [N] [E] [GOAL] [SE,SW] [SE,SW,N] [W]
+# Row 6
+[E,ADD] [NW,SW] [E,W] [E] [N,SW] [N] [N,ADD]
+# Row 7
+[E,ADD] [NE,SUB] [E,NW] [E,W,NW] [NW] [N] [N]
+EOF
