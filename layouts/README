@@ -1,4 +1,4 @@
-These directories contain pre-defined layouts for boards that were prepared 
+These directories contain pre-defined layouts for boards that were prepared
 by others, and are under their copyright.
 
 alice/ - Several boards of the Alice Mazes of the Logic Mazes site.
@@ -12,9 +12,9 @@ number_mazes/ - Several boards of the Number Mazes of the Logic Mazes site.
 tilt/ -Several boards of the Tilt Mazes from the Click Mazes site.
 
 (The Click-mazes site is http://www.clickmazes.com/)
-    
+
     single/ - Single Goal boards
-    
+
     multi/ - Multiple Goals boards
 
     red_blue/ - Red/Blue tilt puzzles
@@ -25,5 +25,5 @@ plank/ - Plank puzzles boards from the Click Mazes site.
 
     hex/ - Hexagonal plank puzzles
 
-    sample/ - The sample relatively easy puzzles 
+    sample/ - The sample relatively easy puzzles
 
