@@ -14,4 +14,4 @@ layout = <<EOF
 [N,E] [N,SUB] [N] [N] [W] [W] [W,N]
 # Row 7
 [N,ADD] [W,NW] [W] [N,E,W,START] [E,W] [E,W] [W,N]
-EOF 
+EOF
