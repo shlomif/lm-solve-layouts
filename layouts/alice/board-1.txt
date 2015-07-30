@@ -1,10 +1,10 @@
 Dims = (5,5)
 layout = <<EOF
 # Row 1
-[S,SE] 
-[S,SUB] 
-[E,W] 
-[SW,ADD] 
+[S,SE]
+[S,SUB]
+[E,W]
+[SW,ADD]
 [W]
 # Row 2
 [N,S,SUB]
