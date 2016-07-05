@@ -7,7 +7,7 @@ layout = <<EOF
 # Row 3
 [S] [N] [W] [W,S,START] [SE,NW] [E,S] [W,ADD]
 # Row 4 - All blanks
-[BLANK] [BLANK] [BLANK] [BLANK] [BLANK] [BLANK] [BLANK] 
+[BLANK] [BLANK] [BLANK] [BLANK] [BLANK] [BLANK] [BLANK]
 # Row 5
 [E,S] [N] [E] [GOAL] [SE,SW] [SE,SW,N] [W]
 # Row 6
